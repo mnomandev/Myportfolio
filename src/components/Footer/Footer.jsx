@@ -1,4 +1,4 @@
-import { FaFacebook, FaTwitter, FaLinkedin, FaInstagram } from "react-icons/fa";
+import { FaFacebook, FaGithub, FaLinkedin, FaInstagram } from "react-icons/fa";
 
 const Footer = () => {
   // Smooth scroll function
@@ -38,7 +38,7 @@ const Footer = () => {
         <div className="flex flex-wrap justify-center space-x-4 mt-6">
           {[
             { icon: <FaFacebook />, link: "https://www.facebook.com/mnomandev/" },
-            { icon: <FaTwitter />, link: "https://twitter.com/CodingMaster6?s=09" },
+            { icon: <FaGithub />, link: "https://github.com/mnomandev" },
             { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/mnomandev/" },
             { icon: <FaInstagram />, link: "https://www.instagram.com/muhammad_noman010/" },
             
