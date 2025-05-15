@@ -1,5 +1,6 @@
 // Skills Section Logo's
 import htmlLogo from './assets/tech_logo/html.png';
+import ChakraLogo from './assets/tech_logo/chakra.png';
 import cssLogo from './assets/tech_logo/css.png';
 import javascriptLogo from './assets/tech_logo/javascript.png';
 import reactjsLogo from './assets/tech_logo/reactjs.png';
@@ -54,6 +55,7 @@ export const SkillsInfo = [
       { name: 'Redux', logo: reduxLogo },
       { name: 'Tailwind CSS', logo: tailwindcssLogo },
       { name: 'Material UI', logo: materialuiLogo },
+      { name: 'Chakra UI', logo: ChakraLogo },
       { name: 'Bootstrap', logo: bootstrapLogo },
     ],
   },

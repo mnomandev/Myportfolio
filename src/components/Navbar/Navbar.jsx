@@ -70,7 +70,7 @@ const Navbar = () => {
 
         {/* Social Icons */}
         <div className="hidden md:flex space-x-4">
-          <a
+           <a
             href="https://github.com/mnomandev"
             target="_blank"
             rel="noopener noreferrer"
