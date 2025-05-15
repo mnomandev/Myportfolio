@@ -47,7 +47,7 @@ const About = () => {
             building scalable web applications. Skilled in both front-end and
             back-end development, I specialize in the MERN stack and other
             modern technologies to create seamless user experiences and
-            efficient solutions.
+            efficient solution.
           </p>
           {/* Resume Button */}
           <a
