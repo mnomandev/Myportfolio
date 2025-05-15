@@ -1,6 +1,6 @@
 // Skills Section Logo's
 import htmlLogo from './assets/tech_logo/html.png';
-import ChakraLogo from './assets/tech_logo/chakra.png';
+import ChakraLogo from './assets/tech_logo/Chakra.png';
 import cssLogo from './assets/tech_logo/css.png';
 import javascriptLogo from './assets/tech_logo/javascript.png';
 import reactjsLogo from './assets/tech_logo/reactjs.png';
