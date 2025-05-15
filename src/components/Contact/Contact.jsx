@@ -68,7 +68,7 @@ const Contact = () => {
         <h3 className="text-xl font-semibold text-white text-center">
           Connect With Me <span className="ml-1">🚀</span>
         </h3>
-        <h3 className="text-lg font-semibold text-white text-center">nomankhan02432@gmail.com</h3>
+        <h3 className="text-sm font-semibold text-white text-center">nomankhan02432@gmail.com</h3>
 
         <form ref={form} onSubmit={sendEmail} className="mt-4 flex flex-col space-y-4">
           <input
