@@ -1,7 +1,7 @@
 import ReactTypingEffect from 'react-typing-effect';
 import Tilt from 'react-parallax-tilt';
 import profileImage from '../../assets/work_logo/profile2.png';
-import Resume from '../../assets/Resume/Resume.pdf';
+import resume from '../../assets/Resume/resume.pdf';
 
 const About = () => {
   return (
@@ -50,9 +50,8 @@ const About = () => {
           </p>
           {/* Resume Button */}
           <a
-            href={Resume}
+            href={resume}
             download="Resume"
-            target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
             style={{
